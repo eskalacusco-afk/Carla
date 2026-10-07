@@ -1,19 +1,10 @@
-# Carla Lisinka — Marca personal
+# Carla Lisinka — versión 5
 
-Sitio web estático listo para GitHub Pages.
+Esta carpeta está lista para GitHub Pages. Los archivos `index.html`, `styles-v5.css`, `script-v5.js` y la carpeta `assets` deben quedar en la **raíz del repositorio** (no dentro de una subcarpeta adicional).
 
-## Estructura
-- `index.html`: página principal / Sobre mí.
-- `materiales.html`: biblioteca de materiales de trabajo.
-- `preguntas.html`: galería de tarjetas de preguntas con ampliación al pasar el cursor y visor a pantalla completa.
-- `styles.css`: diseño responsive en paleta pastel (rosa suave, durazno, crema, verde salvia, menta y azul cielo).
-- `script.js`: menú móvil, filtros y lightbox de la galería.
-- `assets/`: imágenes de Carla y tarjetas de preguntas.
-
-## Publicar en GitHub Pages
-1. Sube todo el contenido de esta carpeta a la raíz del repositorio.
-2. En GitHub: **Settings → Pages**.
-3. Selecciona la rama principal y la carpeta `/root`.
-4. Guarda y espera a que GitHub publique el sitio.
-
-El archivo `index.html` ya funciona como página de inicio.
+Cambios visibles de esta versión:
+- Portada a pantalla completa.
+- Tarjetas de portada: Psicóloga / Inteligencia emocional / Niñez y adolescencia.
+- Círculo verde detrás de Carla.
+- Post-it personales: Fuerte, Inteligente, Carismática, Resiliente, Espontánea, Valiente, Alegre y Sonriente.
+- CSS y JS versionados para evitar que el navegador muestre la versión anterior por caché.
